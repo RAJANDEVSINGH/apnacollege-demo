@@ -1,3 +1,4 @@
 # apnacollege-demo
 THIS IS MY FIRST GIT REPOSITORY.
-Author-AJAN DEV SINGH
+<BR>
+Author-RAJAN DEV SINGH
